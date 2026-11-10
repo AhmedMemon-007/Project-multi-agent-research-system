@@ -97,7 +97,7 @@ multi-agent-research-system/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/AhmedMemon-007/<repo-name>.git
+git clone https://github.com/AhmedMemon-007/Project-multi-agent-research-system.git
 cd <repo-name>
 ```
 
