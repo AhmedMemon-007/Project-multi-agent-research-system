@@ -4,8 +4,6 @@ A research assistant built with **LangChain** that turns a topic into a structur
 
 **Live demo:** _add your Streamlit link here_
 
-![App screenshot](screenshot.png)
-
 ---
 
 ## Table of Contents
