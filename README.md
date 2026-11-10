@@ -2,8 +2,7 @@
 
 A research assistant built with **LangChain** that turns a topic into a structured report. Two tool-using agents and two LLM chains work in sequence: they search the web, read the most relevant source, write a report, and then review it.
 
-**Live demo:** _add your Streamlit link here_
-
+**Live demo:** [ahmed-multi-agent-research.streamlit.app](https://ahmed-multi-agent-research.streamlit.app/)
 ---
 
 ## Table of Contents
@@ -96,7 +95,7 @@ multi-agent-research-system/
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/AhmedMemon-007/Project-multi-agent-research-system.git
-cd <repo-name>
+cd Project-multi-agent-research-system
 ```
 
 ### 2. Create a virtual environment
