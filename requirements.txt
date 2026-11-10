@@ -1,0 +1,17 @@
+# Core LangChain / LCEL stack
+langchain
+langchain-core
+
+langchain-google-genai
+
+# Tools: Tavily search + web scraping
+tavily-python
+beautifulsoup4
+requests
+
+# Environment + terminal output styling
+python-dotenv
+rich
+
+# UI
+streamlit
